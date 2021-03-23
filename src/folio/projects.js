@@ -8,7 +8,7 @@ const styles = {
       background: "#e8eaf6"
     },
     heading: {
-      background: "#3f51b5",
+      background: "#4e7288",
       minHeight: 50,
       lineHeight: 3.5,
       fontSize: "1.2rem",
@@ -27,22 +27,22 @@ const styles = {
         <div style={styles.content}>
         <p>GitHub links</p>
                 <ul>
-                    <li><Link to="/react">React</Link></li>
+                    <li><Link to="https://priteshpatel823.github.io/Project_1/">Find my PetFriend</Link></li>
                 </ul>
                 <ul>
-                    <li><Link to="/react">React</Link></li>
+                    <li><Link to="https://maddycalvo1.github.io/weather_dashboard.github.io/react">Weather App</Link></li>
                 </ul>
                 <ul>
-                    <li><Link to="/react">React</Link></li>
+                    <li><Link to="https://maddycalvo1.github.io/work_day_scheduler.github.io/">Day Planner</Link></li>
                 </ul>
                 <ul>
-                    <li><Link to="/react">React</Link></li>
+                    <li><Link to="https://maddycalvo1.github.io/password_generator/">Password Generator</Link></li>
                 </ul>
                 <ul>
-                    <li><Link to="/react">React</Link></li>
+                    <li><Link to="https://mvplibrary.herokuapp.com">MVP Library</Link></li>
                 </ul>
                 <ul>
-                    <li><Link to="/react">React</Link></li>
+                    <li><Link to="https://maddycalvo1.github.io/timed_quiz.github.io/">Timed Quiz</Link></li>
                 </ul>
 
  
